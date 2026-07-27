@@ -28,7 +28,7 @@ New here? The **[Getting Started Guide](getting-started.md)** walks through each
 **Step 2 — Install the skills:**
 
 ```bash
-npx skills add eliasmalm/google-ads-skills
+npx skills add eliasmalmsandberg/google-ads-skills
 ```
 
 ---
