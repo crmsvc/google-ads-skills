@@ -74,7 +74,7 @@ Data Connector  ←  Windsor / Supermetrics / Official Google Ads MCP
       ↓
 AI Agent        ←  Claude / Cursor / Windsurf / Gemini CLI
       ↓
-Skills          ←  npx skills add eliasmalm/google-ads-skills
+Skills          ←  npx skills add eliasmalmsandberg/google-ads-skills
 ```
 
 The data connector gives the agent access to your live account data. The skills give it the domain expertise to do something useful with it.
